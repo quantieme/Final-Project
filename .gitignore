@@ -1,0 +1,16 @@
+# Directories to ignore
+archive/
+.claude/
+__pycache__/
+
+# Python cache files
+*.pyc
+*.pyo
+*.pyd
+
+# macOS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
