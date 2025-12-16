@@ -688,7 +688,7 @@ visualize_data.py (Visualization Generation)
 
 
 DATA FLOW DIAGRAM
-=================
+
 
 [CoinGecko API] ──HTTP──> collect_crypto_data.py ──INSERT──> [Database]
                                                                   │
