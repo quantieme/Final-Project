@@ -692,7 +692,7 @@ DATA FLOW DIAGRAM
 
 [CoinGecko API] ──HTTP──> collect_crypto_data.py ──INSERT──> [Database]
                                                                   │
-[Alpha Vantage API] ──HTTP──> collect_stock_data.py ──INSERT──> │
+[Alpha Vantage API] ──HTTP──> collect_stock_data.py ──INSERT──>   │
                                                                   │
                                               [crypto_stock_analysis.db]
                                                      │          │
